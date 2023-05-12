@@ -1,5 +1,6 @@
 images/
 output/
+results/
 venv/
 temp/
 .rpa/
@@ -17,4 +18,6 @@ testrun/*
 .~lock*
 *.pkl
 LICENSE
-
+log.html
+output.xml
+report.html
