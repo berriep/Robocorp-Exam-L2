@@ -16,4 +16,5 @@ temp/
 testrun/*
 .~lock*
 *.pkl
+LICENSE
 
