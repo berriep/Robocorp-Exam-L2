@@ -1,3 +1,4 @@
+.images/
 output/
 venv/
 temp/
@@ -15,3 +16,4 @@ temp/
 testrun/*
 .~lock*
 *.pkl
+
