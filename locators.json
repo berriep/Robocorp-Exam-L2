@@ -1,0 +1,9 @@
+{
+    "OK Button": {
+        "screenshot": ".images/ok-button-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".btn-dark"
+    }
+}
