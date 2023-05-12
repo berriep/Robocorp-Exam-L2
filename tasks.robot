@@ -47,6 +47,7 @@ Order Robots
 
 *** Keywords ***
 Manage Directories
+    Create Directory    ${outfolder} 
     Create Directory    ${datafolder}
     Create Directory    ${screenshotsfolder}
     Create Directory    ${receiptsfolder}
